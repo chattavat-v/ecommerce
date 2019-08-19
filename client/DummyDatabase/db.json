@@ -1,0 +1,212 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productType": "Arduino",
+      "productName": "Arduino UNO R3",
+      "Image": "/images/product/arduinoBoard.jpg",
+      "productWebsite": "kLd_JyvKV4Y",
+      "unitPrice": "120",
+      "productDetail": "Arduino uno เป็นบอร์ด controller ที่ประมวลผลด้วย atmega328P"
+    },
+    {
+      "id": 2,
+      "productType": "RaspberryPi",
+      "productName": "RaspberryPi 3 B+",
+      "Image": "/images/product/raspberryPi.jpg",
+      "productWebsite": "kLd_JyvKV4Y",
+      "unitPrice": "1250",
+      "productDetail": "Raspberry Pi มีระบบประมวผลเป็นรูปแบบ Rasbian"
+    },
+    {
+      "id": 3,
+      "productType": "Arduino",
+      "productName": "Arduino Lilypad",
+      "Image": "/images/product/arduinoLilypad.jpg",
+      "productWebsite": "VPhEycx0cNA",
+      "unitPrice": "100",
+      "productDetail": "Lilypad Digispark Arduino บอร์ดพลังจิ๋ว Lilypad Digispark ATtiny85"
+    },
+    {
+      "id": 4,
+      "productType": "Arduino",
+      "productName": "Arduino MEGA",
+      "Image": "/images/product/arduinoMEga.jpg",
+      "productWebsite": "uoG8QTLJTl0",
+      "unitPrice": "440",
+      "productDetail": "Arduino ประสิทธิภาพสูง มีขา I/O มาก หน่วยความจำเยอะ Ardiuno Mega เป็นอีกตัวเลือกที่น่าสนใจ ใช้ได้กับทุก windows xp,windows 7 , windows 8 , windows 10"
+    },
+    {
+      "id": 5,
+      "productType": "RaspberryPi",
+      "productName": "Raspberry Pi Camera Module",
+      "Image": "/images/product/picamera.jpg",
+      "productWebsite": "T8T6S5eFpqE",
+      "unitPrice": "300",
+      "productDetail": "Raspberry Pi Camera Module (Non-Official)"
+    },
+    {
+      "id": 6,
+      "productType": "RaspberryPi",
+      "productName": "Raspberry Pi Zero W",
+      "Image": "/images/product/raspberrypiZero.jpg",
+      "productWebsite": "C0FK7d4dJ5k",
+      "unitPrice": "660",
+      "productDetail": "Raspberry Pi Zero W ใส่ลูกเล่นในส่วนของ Wifi และ Bluetooth (BT 4.1 และ BLE) ซึ่งเป็นโมดูล connectivity ที่เพิ่มเติมขึ้มจากบอร์ด Pi Zero เดิม"
+    },
+    {
+      "id": 7,
+      "productType": "Iot",
+      "productName": "NodeMCU V2 ESP8266",
+      "Image": "/images/product/node-mcuv2.jpg",
+      "productWebsite": "NEo1WsT5T7s",
+      "unitPrice": "210",
+      "productDetail": "NodeMCU V2 LUA based ESP8266-12E NodeMCU V2 Development Kit"
+    }
+  ],
+  "orders": [
+    {
+      "orders": {
+        "orderedDate": "11/12/2018 2:16:05 PM",
+        "totalPrice": 3380,
+        "orders": [
+          {
+            "product": {
+              "id": 1,
+              "productType": "Arduino",
+              "productName": "Arduino UNO R3",
+              "Image": "/images/product/arduinoBoard.jpg",
+              "unitPrice": "120"
+            },
+            "quantity": 1
+          },
+          {
+            "product": {
+              "id": 2,
+              "productType": "RaspberryPi",
+              "productName": "RaspberryPi 3 B+",
+              "Image": "/images/product/raspberryPi.jpg",
+              "unitPrice": "1250"
+            },
+            "quantity": 1
+          },
+          {
+            "product": {
+              "id": 3,
+              "productType": "Arduino",
+              "productName": "Arduino Lilypad",
+              "Image": "/images/product/arduinoLilypad.jpg",
+              "unitPrice": "100"
+            },
+            "quantity": 1
+          },
+          {
+            "product": {
+              "id": 4,
+              "productType": "Arduino",
+              "productName": "Arduino MEGA",
+              "Image": "/images/product/arduinoMEga.jpg",
+              "unitPrice": "440"
+            },
+            "quantity": 1
+          },
+          {
+            "product": {
+              "id": 6,
+              "productType": "RaspberryPi",
+              "productName": "Raspberry Pi Zero W",
+              "Image": "/images/product/raspberrypiZero.jpg",
+              "unitPrice": "660"
+            },
+            "quantity": 1
+          },
+          {
+            "product": {
+              "id": 5,
+              "productType": "RaspberryPi",
+              "productName": "Raspberry Pi Camera Module",
+              "Image": "/images/product/picamera.jpg",
+              "unitPrice": "300"
+            },
+            "quantity": 2
+          },
+          {
+            "product": {
+              "id": 7,
+              "productType": "Iot",
+              "productName": "NodeMCU V2 ESP8266",
+              "Image": "/images/product/node-mcuv2.jpg",
+              "unitPrice": "210"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      "fullName": "chattavat vattanasiri",
+      "email": "chattavat.psu@gmail.com",
+      "id": 1
+    },
+    {
+      "orders": {
+        "orderedDate": "12/11/2561 14:37:31",
+        "totalPrice": 3410,
+        "orders": [
+          {
+            "product": {
+              "id": 1,
+              "productType": "Arduino",
+              "productName": "Arduino UNO R3",
+              "Image": "/images/product/arduinoBoard.jpg",
+              "unitPrice": "120"
+            },
+            "quantity": 1
+          },
+          {
+            "product": {
+              "id": 2,
+              "productType": "RaspberryPi",
+              "productName": "RaspberryPi 3 B+",
+              "Image": "/images/product/raspberryPi.jpg",
+              "unitPrice": "1250"
+            },
+            "quantity": 1
+          },
+          {
+            "product": {
+              "id": 3,
+              "productType": "Arduino",
+              "productName": "Arduino Lilypad",
+              "Image": "/images/product/arduinoLilypad.jpg",
+              "unitPrice": "100"
+            },
+            "quantity": 3
+          },
+          {
+            "product": {
+              "id": 5,
+              "productType": "RaspberryPi",
+              "productName": "Raspberry Pi Camera Module",
+              "Image": "/images/product/picamera.jpg",
+              "unitPrice": "300"
+            },
+            "quantity": 3
+          },
+          {
+            "product": {
+              "id": 7,
+              "productType": "Iot",
+              "productName": "NodeMCU V2 ESP8266",
+              "Image": "/images/product/node-mcuv2.jpg",
+              "unitPrice": "210"
+            },
+            "quantity": 4
+          }
+        ]
+      },
+      "fullName": "chattavat vattanasiri",
+      "email": "chattavat.psu@gmail.com",
+      "id": 2
+    }
+  ],
+  "contact": []
+}
